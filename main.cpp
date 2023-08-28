@@ -9,7 +9,7 @@ using namespace std;
 cout<<"Enter the marks : ";
 cin>>marks;
 if(marks<33){
-cout<<"you are fail";
+        cout<<"you are fail!";
 }else{
     cout<<"you have passed";
 
