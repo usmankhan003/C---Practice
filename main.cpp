@@ -4,6 +4,7 @@ using namespace std;
 
  int main ()
 {
+    
     int marks;
 cout<<"Enter the marks : ";
 cin>>marks;
